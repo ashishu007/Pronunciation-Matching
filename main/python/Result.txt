@@ -1,0 +1,239 @@
+Model for Australian...
+Train Accuracy: 99.92% 
+Test Accuracy: 96.83% 
+
+Model for Bag...
+Train Accuracy: 98.33% 
+Test Accuracy: 96.67% 
+
+Model for Bank...
+Train Accuracy: 98.33% 
+Test Accuracy: 96.67% 
+
+Model for Blue...
+Train Accuracy: 99.58% 
+Test Accuracy: 95.83% 
+
+Model for Beard...
+Train Accuracy: 99.42% 
+Test Accuracy: 96.00% 
+
+Model for Book...
+Train Accuracy: 99.25% 
+Test Accuracy: 96.17% 
+
+Model for Brother...
+Train Accuracy: 99.17% 
+Test Accuracy: 96.33% 
+
+Model for Bus...
+Train Accuracy: 99.50% 
+Test Accuracy: 96.00% 
+
+Model for Canadian...
+Train Accuracy: 99.50% 
+Test Accuracy: 95.33% 
+
+Model for Chair...
+Train Accuracy: 99.42% 
+Test Accuracy: 96.00% 
+
+Model for Cheese...
+Train Accuracy: 99.67% 
+Test Accuracy: 96.50% 
+
+Model for Classes...
+Train Accuracy: 99.58% 
+Test Accuracy: 96.83% 
+
+Model for Day...
+Train Accuracy: 98.83% 
+Test Accuracy: 96.67% 
+
+Model for Fair...
+Train Accuracy: 99.50% 
+Test Accuracy: 94.33% 
+
+Model for Father...
+Train Accuracy: 99.92% 
+Test Accuracy: 94.33% 
+
+Model for Fifteen1...
+Train Accuracy: 99.58% 
+Test Accuracy: 96.17% 
+
+Model for Fifteen2...
+Train Accuracy: 99.83% 
+Test Accuracy: 95.17% 
+
+Model for Fifty...
+Train Accuracy: 99.92% 
+Test Accuracy: 96.33% 
+
+Model for First...
+Train Accuracy: 99.75% 
+Test Accuracy: 95.67% 
+
+Model for Five...
+Train Accuracy: 99.75% 
+Test Accuracy: 96.00% 
+
+Model for Four...
+Train Accuracy: 99.58% 
+Test Accuracy: 95.33% 
+
+Model for Funny...
+Train Accuracy: 99.58% 
+Test Accuracy: 96.50% 
+
+Model for Glasses...
+Train Accuracy: 99.50% 
+Test Accuracy: 95.67% 
+
+Model for Green...
+Train Accuracy: 99.25% 
+Test Accuracy: 96.17% 
+
+Model for Hair...
+Train Accuracy: 99.42% 
+Test Accuracy: 96.00% 
+
+Model for Hundred...
+Train Accuracy: 99.58% 
+Test Accuracy: 95.50% 
+
+Model for Japanese...
+Train Accuracy: 99.92% 
+Test Accuracy: 96.17% 
+
+Model for Jeans...
+Train Accuracy: 99.75% 
+Test Accuracy: 96.67% 
+
+Model for Korean...
+Train Accuracy: 99.83% 
+Test Accuracy: 95.17% 
+
+Model for Mother...
+Train Accuracy: 99.42% 
+Test Accuracy: 96.17% 
+
+Model for Name...
+Train Accuracy: 99.33% 
+Test Accuracy: 99.17% 
+
+Model for Plate1...
+Train Accuracy: 98.58% 
+Test Accuracy: 99.33% 
+
+Model for Plate2...
+Train Accuracy: 98.83% 
+Test Accuracy: 99.67% 
+
+Model for Play...
+Train Accuracy: 99.25% 
+Test Accuracy: 99.17% 
+
+Model for Sandwich...
+Train Accuracy: 99.92% 
+Test Accuracy: 99.00% 
+
+Model for Saturday...
+Train Accuracy: 99.67% 
+Test Accuracy: 98.83% 
+
+Model for Secretary...
+Train Accuracy: 99.75% 
+Test Accuracy: 99.83% 
+
+Model for Shelf...
+Train Accuracy: 99.92% 
+Test Accuracy: 98.67% 
+
+Model for Shirt...
+Train Accuracy: 99.75% 
+Test Accuracy: 99.33% 
+
+Model for Shoes...
+Train Accuracy: 99.67% 
+Test Accuracy: 98.83% 
+
+Model for Shopping...
+Train Accuracy: 99.67% 
+Test Accuracy: 98.67% 
+
+Model for Short...
+Train Accuracy: 99.83% 
+Test Accuracy: 99.33% 
+
+Model for Subway...
+Train Accuracy: 99.58% 
+Test Accuracy: 99.50% 
+
+Model for Sunday...
+Train Accuracy: 99.83% 
+Test Accuracy: 98.67% 
+
+Model for Table...
+Train Accuracy: 99.17% 
+Test Accuracy: 99.50% 
+
+Model for Taiwanese...
+Train Accuracy: 99.83% 
+Test Accuracy: 99.17% 
+
+Model for Tea...
+Train Accuracy: 99.42% 
+Test Accuracy: 98.83% 
+
+Model for Their...
+Train Accuracy: 98.58% 
+Test Accuracy: 99.83% 
+
+Model for There...
+Train Accuracy: 99.25% 
+Test Accuracy: 98.83% 
+
+Model for These...
+Train Accuracy: 99.58% 
+Test Accuracy: 98.50% 
+
+Model for They...
+Train Accuracy: 98.67% 
+Test Accuracy: 100.00% 
+
+Model for Thirteen...
+Train Accuracy: 99.58% 
+Test Accuracy: 99.33% 
+
+Model for Thirty...
+Train Accuracy: 99.42% 
+Test Accuracy: 99.50% 
+
+Model for Train...
+Train Accuracy: 99.08% 
+Test Accuracy: 98.83% 
+
+Model for Waitress...
+Train Accuracy: 99.67% 
+Test Accuracy: 99.67% 
+
+Model for Wallet...
+Train Accuracy: 99.00% 
+Test Accuracy: 98.83% 
+
+Model for Watch...
+Train Accuracy: 99.50% 
+Test Accuracy: 99.33% 
+
+Model for Well built...
+Train Accuracy: 100.00% 
+Test Accuracy: 99.67% 
+
+Model for Where...
+Train Accuracy: 99.33% 
+Test Accuracy: 99.00% 
+
+Model for Worker...
+Train Accuracy: 99.92% 
+Test Accuracy: 100.00% 
